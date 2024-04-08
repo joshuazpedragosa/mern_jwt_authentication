@@ -1,8 +1,0 @@
-#ignore build folder
-server/build
-
-#ignore .env file
-server/.env
-
-#ignore server node modules
-server/node_modules
